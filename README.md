@@ -42,10 +42,8 @@ or:
 
 or, if you like using Foreman:
 
-* Procfile:
-    web1: sh -c 'ASSETS_DIR=/path/to/some/css/directory meteor'
-* then run:
-    foreman start
+* Procfile:  `web1: sh -c 'ASSETS_DIR=/path/to/some/css/directory meteor'`
+* then run:  `foreman start`
 
 
 `ASSETS_DIR` must be:
@@ -58,7 +56,7 @@ or, if you like using Foreman:
 * Your source tree structure will change... some of you might not like that idea. 
 * You will probably run into problems with source control for your CSS stuff.
 
-## TODO
+## TODOs
 
 * Use websockets to push changes / compile events to the browser. If anyone can contribute on how to do this, that would be great!
 
