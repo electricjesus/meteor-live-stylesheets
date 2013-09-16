@@ -2,7 +2,7 @@ Meteor Live Stylesheets
 =======================
 v0.1.0
 
-[![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.1.0/dist/gittip.png)](https://www.gittip.com/electricjesus/)
+[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/electricjesus/)
 
 
 Introduction
