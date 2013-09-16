@@ -1,0 +1,8 @@
+{
+  "name": "live-stylesheets",
+  "description": "Live Stylesheets based on LiveJS",
+  "homepage": "https://github.com/electricjesus/meteor-live-stylesheets",
+  "author": "Seth Malaki [meteor-live-stylesheets] (https://github.com/electricjesus), Martin Kool [livejs] (http://twitter.com/mrtnkl)",
+  "version": "0.1.0",
+  "git": "https://github.com/electricjesus/meteor-live-stylesheets.git"
+}
